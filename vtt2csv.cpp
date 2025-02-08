@@ -4,10 +4,11 @@
 
 void parseFile(const char* filename, const char* outfilename);
 void crawlDirectory(const std::string& dir);
+std::string formatText(const std::string& text);
 
 int main (void)
 {
-  const std::string path = "/home/calvin/Documents/AppState/Data_With_Python/Project/Vsauce/Videos";
+  const std::string path = "/home/calvin/Documents/AppState/Data_With_Python/Project/Vsauce/vttFiles/";
   crawlDirectory(path);
   return 0;
 }
@@ -58,7 +59,7 @@ void parseFile(const std::string& filename, const std::string& outfilename)
       {
         text.pop_back();
       }
-      outfile << start << "," << end << "," << text << std::endl;
+      outfile << start << "," << end << "," << formatText(text) << std::endl;
     }
   }
   infile.close();
@@ -67,7 +68,7 @@ void parseFile(const std::string& filename, const std::string& outfilename)
 
 void crawlDirectory(const std::string& dir)
 {
-  std::string outputDir = "/home/calvin/Documents/AppState/Data_With_Python/Project/Vsauce/Videos2/";
+  std::string outputDir = "/home/calvin/Documents/AppState/Data_With_Python/Project/Vsauce/csvFiles/";
   for (const auto& entry : std::filesystem::directory_iterator(dir))
   {
     if (entry.is_regular_file() && entry.path().extension() == ".vtt")
@@ -77,4 +78,22 @@ void crawlDirectory(const std::string& dir)
       parseFile(inputFile, outputFile);
     }
   }
+}
+
+std::string formatText(const std::string& text)
+{
+  std::string result = "\"";
+  for (char c: text)
+  {
+    if (c== '"')
+    {
+      result += "\"\"";
+    }
+    else
+    {
+      result += c;
+    }
+  }
+  result += "\"";
+  return result;
 }
