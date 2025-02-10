@@ -2,7 +2,11 @@
 ==========
 
 ## To download transcripts:
-Run:
+- Clone the directory:
+  ```bash
+  git clone https://github.com/innovationsquared/db_proj.git
+  ```
+- Run:
 ```bash
 yt-dlp --skip-download --sub-langs "en" --write-subs -o "%(uploader)s/%(title)s.%(ext)s" "youtube.com/yourplaylisthere"
 ```
