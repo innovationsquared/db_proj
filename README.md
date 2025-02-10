@@ -1,7 +1,7 @@
  db_proj
 ==========
 
-## To download transcripts:
+## To download transcripts of your own:
 - Clone the directory:
 ```bash
 git clone https://github.com/innovationsquared/db_proj.git
