@@ -8,7 +8,7 @@ std::string formatText(const std::string& text);
 
 int main (void)
 {
-  const std::string path = "/home/calvin/Documents/AppState/Data_With_Python/Project/veritasium/vttFiles/";
+  const std::string path = "/home/calvin/Documents/AppState/Data_With_Python/Project/Vsauce/vttfiles/";
   crawlDirectory(path);
   return 0;
 }
@@ -68,7 +68,7 @@ void parseFile(const std::string& filename, const std::string& outfilename)
 
 void crawlDirectory(const std::string& dir)
 {
-  std::string outputDir = "/home/calvin/Documents/AppState/Data_With_Python/Project/veritasium/csvFiles/";
+  std::string outputDir = "/home/calvin/Documents/AppState/Data_With_Python/Project/Vsauce/csvFiles/";
   for (const auto& entry : std::filesystem::directory_iterator(dir))
   {
     if (entry.is_regular_file() && entry.path().extension() == ".vtt")

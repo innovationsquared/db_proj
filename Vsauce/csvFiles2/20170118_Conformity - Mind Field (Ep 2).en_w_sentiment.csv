@@ -1,0 +1,612 @@
+Start Time,End Time,Text,sentiment-score
+00:00:05.805,00:00:07.306,"- So welcome, everyone.",0.5095
+00:00:07.339,00:00:10.076,"My name's Ron, and your task is to choose",0.0
+00:00:10.109,00:00:11.277,the line on the right,0.0
+00:00:11.310,00:00:13.246,that matches the line on the left.,0.0
+00:00:13.279,00:00:15.281,"- All right, this seems like an easy enough task:",0.6597
+00:00:15.314,00:00:17.216,which line on the right is the same length,0.0
+00:00:17.249,00:00:18.651,as the one on the left?,0.0
+00:00:18.684,00:00:21.454,<i> The answer is clearly three.</i>,0.4019
+00:00:21.487,00:00:23.289,[bell dings],0.0
+00:00:23.322,00:00:26.592,- One.,0.0
+00:00:26.625,00:00:29.662,- One. - One.,0.0
+00:00:29.695,00:00:32.365,- Why is everyone saying one?,0.0
+00:00:32.398,00:00:34.167,Are their eyes not working?,0.0
+00:00:34.200,00:00:37.537,Have we just discovered some new type of illusion?,0.0
+00:00:37.570,00:00:40.273,"No, the answer is,",0.0
+00:00:40.306,00:00:42.409,we paid them to lie.,0.0
+00:00:45.111,00:00:48.081,<i> [electronic music]</i>,0.0
+00:00:48.114,00:00:55.055,<i> ♪ ♪</i>,0.0
+00:00:58.190,00:01:00.159,"Today, we are going to be demonstrating",0.0
+00:01:00.192,00:01:02.695,a very famous psychological experiment,0.0
+00:01:02.728,00:01:04.764,"known as the ""Asch experiment.""",0.0
+00:01:04.797,00:01:07.100,This experiment tests conformity,0.0
+00:01:07.133,00:01:08.234,and whether or not a person,0.0
+00:01:08.267,00:01:10.203,will say something incorrect,0.0
+00:01:10.236,00:01:12.271,simply because everyone else is.,0.0
+00:01:12.304,00:01:13.539,What matters more?,0.0258
+00:01:13.572,00:01:15.575,Being right or fitting in?,0.0
+00:01:15.608,00:01:18.578,<i> [calm music]</i>,0.3182
+00:01:18.611,00:01:20.213,<i> ♪ ♪</i>,0.0
+00:01:20.246,00:01:22.548,<i> We have five  professional actors</i>,0.0
+00:01:22.581,00:01:23.883,<i> that have been instructed</i>,0.0
+00:01:23.916,00:01:25.418,to do as we say.,0.0
+00:01:25.451,00:01:26.786,"Often, they will be lying",-0.5267
+00:01:26.819,00:01:29.155,about what they think the answer is.,0.0
+00:01:29.188,00:01:31.257,"But in position number five,",0.1154
+00:01:31.290,00:01:33.392,a real participant who has no idea,-0.296
+00:01:33.425,00:01:36.362,<i> what's going on  will be seated.</i>,0.0
+00:01:36.395,00:01:39.599,"Now, their task is to match the length of the line",0.0
+00:01:39.632,00:01:42.802,on the left with one of the lines on the right.,0.0
+00:01:42.835,00:01:45.371,But what if everyone else in the room,0.0
+00:01:45.404,00:01:46.739,gave the wrong answer?,-0.4767
+00:01:46.772,00:01:48.875,Would you be bold enough to stick out,0.3818
+00:01:48.908,00:01:50.243,"and say what you saw,",0.0
+00:01:50.276,00:01:52.145,or would you just fit in,0.3612
+00:01:52.178,00:01:55.281,because it's easier or less uncomfortable?,0.1263
+00:01:55.314,00:01:56.449,"Well, let's find out.",0.2732
+00:01:59.385,00:02:01.287,"- So welcome, everyone. My name's Ron.",0.5095
+00:02:01.320,00:02:03.823,Your task is to choose the line on the right,0.0
+00:02:03.856,00:02:05.758,that matches the line on the left.,0.0
+00:02:05.791,00:02:08.227,"I'll just call on you individually,",0.0
+00:02:08.260,00:02:09.762,"you know, in order, one through six.",0.0
+00:02:09.795,00:02:11.397,- The calm before the storm.,0.3182
+00:02:11.430,00:02:12.431,"- Okay, so let's begin.",0.2263
+00:02:12.464,00:02:13.933,"<i> - The first few times,</i>",0.0
+00:02:13.966,00:02:15.234,<i> we're gonna have the actors</i>,0.0
+00:02:15.267,00:02:16.536,<i> say the correct answer</i>,0.0
+00:02:16.569,00:02:17.837,<i> to gain the trust  of our subject.</i>,0.7717
+00:02:17.870,00:02:20.773,<i> The correct answer here  is three.</i>,0.0
+00:02:20.806,00:02:21.774,- Three.,0.0
+00:02:21.807,00:02:22.875,- Three.,0.0
+00:02:22.908,00:02:24.844,- Number three. - Number three.,0.1531
+00:02:24.877,00:02:27.613,- Three.,0.0
+00:02:27.646,00:02:29.515,- One. - One.,0.0
+00:02:29.548,00:02:31.884,- Number one. - Number one.,0.1531
+00:02:31.917,00:02:33.419,- Number one.,0.0772
+00:02:33.452,00:02:35.521,- Now they're all gonna start lying.,-0.5267
+00:02:35.554,00:02:37.657,<i> The correct answer is three.</i>,0.0
+00:02:37.690,00:02:39.325,<i> Let's see what  our subject does.</i>,0.0
+00:02:39.358,00:02:41.627,- One.,0.0
+00:02:41.660,00:02:43.329,- One.,0.0
+00:02:43.362,00:02:46.866,"<i> - Pretty quickly, she appears  to be confused.</i>",0.4939
+00:02:46.899,00:02:48.234,- One.,0.0
+00:02:50.469,00:02:53.339,"- Um, okay, number one.",0.296
+00:02:55.007,00:02:57.243,- Number one.,0.0772
+00:02:57.276,00:02:58.411,- Three...,0.0
+00:03:00.446,00:03:01.547,- One.,0.0
+00:03:01.580,00:03:04.617,<i> [tense music]</i>,-0.34
+00:03:04.650,00:03:06.485,<i> ♪ ♪</i>,0.0
+00:03:06.518,00:03:09.288,<i>- You can see participant five</i>,0.0
+00:03:09.321,00:03:11.424,"closing one eye, then the other,",0.0
+00:03:11.457,00:03:13.492,trying to figure out why everyone's wrong.,-0.4767
+00:03:13.525,00:03:16.429,But she's not going along with them.,0.0
+00:03:16.462,00:03:18.764,"<i> Again, the correct answer  is three.</i>",0.0
+00:03:18.797,00:03:20.600,[bell dings]<i> Let's see what  our subject does.</i>,0.0
+00:03:20.633,00:03:21.768,- Number one.,0.0772
+00:03:23.802,00:03:26.305,- Number one.,0.0772
+00:03:26.338,00:03:28.641,"- Yeah, number one.",0.3612
+00:03:28.674,00:03:30.610,- Number one.,0.0772
+00:03:30.643,00:03:31.777,- Three?,0.0
+00:03:31.810,00:03:33.446,"<i> - She's sticking to her guns,</i>",0.0
+00:03:33.479,00:03:34.847,<i> but she appears  to be uncomfortable</i>,0.0
+00:03:34.880,00:03:36.482,<i> opposing the group.</i>,0.0
+00:03:36.515,00:03:39.519,"<i> This time,  the correct answer is two.</i>",0.0
+00:03:40.986,00:03:42.322,- Three.,0.0
+00:03:44.790,00:03:47.293,- Three.,0.0
+00:03:47.326,00:03:48.461,- Number three.,0.0772
+00:03:49.728,00:03:50.863,- Number three.,0.0772
+00:03:53.399,00:03:54.734,- Number three.,0.0772
+00:03:54.767,00:03:56.602,- Wow.,0.5859
+00:03:56.635,00:03:57.770,- Three.,0.0
+00:03:59.371,00:04:00.640,<i> - She's falling in line.</i>,-0.1531
+00:04:00.673,00:04:01.907,<i> Will she do it again?</i>,0.0
+00:04:01.940,00:04:05.044,<i> The correct answer is three.</i>,0.0
+00:04:05.077,00:04:07.013,- One. - One.,0.0
+00:04:07.046,00:04:09.349,- Number one. - Number one.,0.1531
+00:04:12.685,00:04:14.420,- Number one.,0.0772
+00:04:14.453,00:04:15.588,- Conformed.,0.0
+00:04:18.791,00:04:20.326,<i> Conformity.</i>,0.0
+00:04:20.359,00:04:22.061,<i> The desire to fit in.</i>,0.6369
+00:04:22.094,00:04:23.963,<i> Peer pressure.</i>,0.0
+00:04:23.996,00:04:26.432,<i> These are powerful  social forces</i>,0.4215
+00:04:26.465,00:04:29.035,<i> that shape our actions  and beliefs</i>,0.0
+00:04:29.068,00:04:30.770,<i> and influence how we behave</i>,0.0
+00:04:30.803,00:04:31.937,<i> as individuals</i>,0.0
+00:04:31.970,00:04:34.607,<i> and as a society.</i>,0.0
+00:04:34.640,00:04:36.742,<i> In the original  Asch experiments</i>,0.3182
+00:04:36.775,00:04:40.646,"<i> first carried out by  Solomon Asch in 1951,</i>",0.0
+00:04:40.679,00:04:43.616,<i> approximately 75% of subjects</i>,0.0
+00:04:43.649,00:04:45.518,<i> conformed at least once.</i>,0.0
+00:04:45.551,00:04:47.086,- One.,0.0
+00:04:47.119,00:04:48.721,"- Hi, Ron.",0.0
+00:04:48.754,00:04:50.823,"Sorry to butt in, guys. My name is Michael.",-0.0772
+00:04:50.856,00:04:52.458,I just wanted to kind of ask you a few questions,0.0
+00:04:52.491,00:04:54.560,about the study you've been doing.,0.0
+00:04:54.593,00:04:57.396,This is a study on conformity.,0.0
+00:04:57.429,00:05:00.066,And everyone in this room is an actor--,0.0
+00:05:00.099,00:05:01.834,"except for you, number five.",0.0772
+00:05:01.867,00:05:03.569,"- Oh, my God!",0.3382
+00:05:03.602,00:05:05.471,"Oh, my God!",0.3382
+00:05:05.504,00:05:06.706,This is so crazy.,-0.4795
+00:05:06.739,00:05:08.107,- And they've all been instructed,0.0
+00:05:08.140,00:05:09.742,to give the wrong answers,-0.4767
+00:05:09.775,00:05:11.711,to see if you'll follow along.,0.0
+00:05:11.744,00:05:13.512,- Whoa. - You did say the wrong answer,-0.4767
+00:05:13.545,00:05:15.514,after everyone else had said the wrong answer.,-0.4767
+00:05:15.547,00:05:16.949,Why did you do it?,0.0
+00:05:16.982,00:05:18.617,"- I thought, ""There's something going on here.",0.0
+00:05:18.650,00:05:19.985,"""I don't know what to do,",0.0
+00:05:20.018,00:05:21.053,"so I'm just gonna say what they said.""",0.0
+00:05:21.086,00:05:22.588,- How did it feel to do that?,0.0
+00:05:22.621,00:05:24.090,- It--it felt--,0.0
+00:05:24.123,00:05:25.791,"it felt like I was drinking the Kool-Aid, like--",0.6124
+00:05:25.824,00:05:27.693,[laughter] - It's very normal.,0.4939
+00:05:27.726,00:05:29.362,This study wouldn't be as famous as it was,0.0
+00:05:29.395,00:05:31.397,"if it wasn't normal, though it is surprising,",0.2732
+00:05:31.430,00:05:32.765,"because so many of us would say,",0.0
+00:05:32.798,00:05:35.601,"""No, I would always say what's real.""",0.0
+00:05:35.634,00:05:36.769,- Right. Right.,0.0
+00:05:36.802,00:05:38.971,- Would you?,0.0
+00:05:39.004,00:05:40.072,"- Right, no.",0.0
+00:05:40.105,00:05:41.841,"Clearly not all the time, yeah.",0.5994
+00:05:41.874,00:05:42.842,"- All right, thank you very much.",0.3612
+00:05:42.875,00:05:45.845,<i> [upbeat synth music]</i>,0.0
+00:05:45.878,00:05:52.852,<i> ♪ ♪</i>,0.0
+00:05:52.885,00:05:56.088,"People follow the crowd in all kinds of interesting ways,",0.4019
+00:05:56.121,00:05:58.524,many of which are pretty funny.,0.7269
+00:05:58.557,00:06:00.726,Classical psychological experiments,0.0
+00:06:00.759,00:06:02.128,and hidden camera pranks,0.0
+00:06:02.161,00:06:05.598,often involve people acting together in strange ways,-0.2023
+00:06:05.631,00:06:08.000,to see if others will conform.,0.0
+00:06:08.033,00:06:10.403,"<i> Now, there's nothing  inherently irrational</i>",0.0
+00:06:10.436,00:06:13.005,<i> about following the crowd  in ways like those.</i>,0.3612
+00:06:13.038,00:06:16.409,<i> Conforming can be a form  of social lubrication.</i>,0.0
+00:06:16.442,00:06:18.944,"It's just easier to do what someone else is doing,",0.4215
+00:06:18.977,00:06:20.746,because to break from that norm,0.0
+00:06:20.779,00:06:22.615,would be to slow things down.,0.0
+00:06:22.648,00:06:25.851,"<i> If everyone's facing  the same way in an elevator,</i>",0.0
+00:06:25.884,00:06:28.821,<i> it's not like you lose your  personal sense of identity</i>,0.0382
+00:06:28.854,00:06:30.589,<i> by turning along with them.</i>,0.0
+00:06:30.622,00:06:32.925,"<i> Instead, you're just  going with the flow</i>",0.0
+00:06:32.958,00:06:35.494,<i> and not being awkward.</i>,0.0
+00:06:35.527,00:06:38.030,"<i> If I see a bunch of people  on the street looking up,</i>",0.0
+00:06:38.063,00:06:39.832,"<i> and I decide to look up too,</i>",0.0
+00:06:39.865,00:06:41.834,<i> there's nothing  inherently bad about that.</i>,0.431
+00:06:41.867,00:06:43.903,"I mean, what it costs for me to look up",0.0
+00:06:43.936,00:06:46.739,is really low compared to the potential harm,-0.7089
+00:06:46.772,00:06:49.909,that might come from me not seeing an imminent threat.,-0.5267
+00:06:49.942,00:06:52.511,"Sometimes, conformity is harmless.",0.25
+00:06:52.544,00:06:53.846,[laughter],0.4939
+00:06:53.879,00:06:55.714,<i> Even laughter is a form  of conformity.</i>,0.4939
+00:06:55.747,00:06:57.583,"<i>We laugh if something is funny,</i>",0.5574
+00:06:57.616,00:06:58.951,<i> but we also tend to laugh</i>,0.0
+00:06:58.984,00:07:00.920,"<i> if people around us  are laughing,</i>",0.0
+00:07:00.953,00:07:02.755,<i>even if we don't get the joke.</i>,0.0
+00:07:02.788,00:07:05.791,<i> There are a lot of social  forces behind this:</i>,0.0
+00:07:05.824,00:07:09.061,"politeness, a fear of looking stupid,",-0.765
+00:07:09.094,00:07:12.031,and no doubt a desire to conform--,0.5873
+00:07:12.064,00:07:13.933,to fit in.,0.3612
+00:07:13.966,00:07:16.836,Let's see what happens when there's even more pressure,-0.3597
+00:07:16.869,00:07:19.038,to see something that's unfunny,0.0
+00:07:19.071,00:07:20.873,as hilarious.,0.4019
+00:07:24.877,00:07:26.612,<i> We've invited these people</i>,0.0
+00:07:26.645,00:07:28.247,<i> to participate in  a psychological experiment.</i>,0.0
+00:07:28.280,00:07:29.782,<i> But here's the thing:</i>,0.0
+00:07:29.815,00:07:31.217,<i> everyone in this room</i>,0.0
+00:07:31.250,00:07:32.518,"<i> is an actor,</i>",0.0
+00:07:32.551,00:07:34.086,except this guy.,0.0
+00:07:34.119,00:07:36.555,He thinks he's just killing time in this waiting room,-0.6597
+00:07:36.588,00:07:38.123,before the experiment begins.,0.0
+00:07:38.156,00:07:40.226,"<i> But this is the experiment,</i>",0.0
+00:07:40.259,00:07:42.695,<i> and that's no joke.</i>,-0.296
+00:07:42.728,00:07:44.497,"Hey, how's everyone doing today?",0.0
+00:07:44.530,00:07:45.598,[indistinct murmuring],0.0
+00:07:45.631,00:07:46.665,My name's Michael.,0.0
+00:07:46.698,00:07:47.666,Nice to meet you all.,0.4215
+00:07:47.699,00:07:49.235,Thanks for participating.,0.4404
+00:07:49.268,00:07:51.770,It's important that everyone be kind of in a chatty mood.,0.2023
+00:07:51.803,00:07:53.172,So here's a question:,0.0
+00:07:53.205,00:07:55.107,anyone got some good jokes?,0.5994
+00:07:55.140,00:07:57.109,"- I have a great one. - Oh, yeah?",0.743
+00:07:57.142,00:08:00.980,- Why did the hipster burn his mouth on coffee?,0.0
+00:08:01.013,00:08:03.549,Because he drank it way before it was cool.,0.3182
+00:08:03.582,00:08:05.784,[laughter],0.4939
+00:08:05.817,00:08:07.920,"Get it, yeah? - I get it, yeah.",0.5267
+00:08:07.953,00:08:10.289,"<i> - Our subject thinks  the real joke is funny,</i>",0.296
+00:08:10.322,00:08:12.191,"<i> but keep in mind,</i>",0.0
+00:08:12.224,00:08:14.827,<i> the joke I'm going to tell  is complete nonsense.</i>,0.296
+00:08:14.860,00:08:17.129,<i> It's not funny.  It's just words.</i>,-0.3412
+00:08:17.162,00:08:20.633,<i> Everyone but the subject has been instructed to laugh at it.</i>,0.7096
+00:08:20.666,00:08:23.702,"<i> The question is,  will the pressure to conform</i>",-0.296
+00:08:23.735,00:08:25.170,<i> make the subject laugh?</i>,0.0
+00:08:25.203,00:08:26.238,"Okay, how about this one?",0.2263
+00:08:26.271,00:08:28.173,"Uh, a giraffe is at the airport",0.0
+00:08:28.206,00:08:30.042,going through the TSA line.,0.0
+00:08:30.075,00:08:31.710,"And the security agent says,",0.34
+00:08:31.743,00:08:33.646,"""Hey, is this your laptop?""",0.0
+00:08:33.679,00:08:35.281,"And the giraffe says,",0.0
+00:08:35.314,00:08:36.916,"""I thought you'd never ask.""",0.0
+00:08:36.949,00:08:39.184,[laughter],0.4939
+00:08:39.217,00:08:40.753,"- Oh, my God.",0.2732
+00:08:40.786,00:08:41.820,- You guys have never heard that before?,0.0
+00:08:41.853,00:08:43.255,"- No, never. - No.",0.0
+00:08:43.288,00:08:45.558,- It's pretty famous. - I didn't.,0.4939
+00:08:45.591,00:08:47.793,<i> - This is a classic example  of conformity.</i>,0.0
+00:08:47.826,00:08:50.930,"<i> Even when the crowd acts  in a way that makes no sense,</i>",-0.296
+00:08:50.963,00:08:53.198,<i> the need to fit in  is still very strong.</i>,0.3612
+00:08:53.231,00:08:54.633,"Okay, how about this one?",0.2263
+00:08:54.666,00:08:56.936,"Uh, two penguins are driving in a car.",0.0
+00:08:56.969,00:08:59.905,"The driver says, ""Hey, could you change the radio station?""",0.0
+00:08:59.938,00:09:03.142,"And the other one says, ""No radio. Four wheels.""",0.0
+00:09:03.175,00:09:05.911,[laughter],0.4939
+00:09:05.944,00:09:07.880,- That was better.,0.4404
+00:09:07.913,00:09:10.783,"<i> - Laughter can be a powerful  tool for social conformity,</i>",0.7184
+00:09:10.816,00:09:12.585,<i> which is exactly why sitcoms</i>,0.0
+00:09:12.618,00:09:14.086,<i> use canned laughter.</i>,0.0
+00:09:14.119,00:09:15.921,- How do you feel about courtin' right now?,0.0
+00:09:15.954,00:09:17.823,"- Uncle Jake, if there was a pretty girl",0.4939
+00:09:17.856,00:09:19.258,"on the other side of this house,",0.0
+00:09:19.291,00:09:21.827,I'd jump clean over it. <i> [laughter]</i>,0.4019
+00:09:21.860,00:09:23.162,<i> - The laugh track  entices you at home</i>,0.5574
+00:09:23.195,00:09:24.830,"<i> to laugh along,</i>",0.5574
+00:09:24.863,00:09:26.999,<i> even when a joke  might not be that funny.</i>,0.296
+00:09:27.032,00:09:30.135,<i> So will our other subjects  feel compelled to laugh</i>,0.0516
+00:09:30.168,00:09:31.737,<i> at our meaningless joke?</i>,-0.4404
+00:09:31.770,00:09:34.039,So a giraffe is at the airport.,0.0
+00:09:34.072,00:09:35.674,"And it's in the security line,",0.34
+00:09:35.707,00:09:37.876,"and the TSA agent says,",0.0
+00:09:37.909,00:09:39.011,"""Is this your laptop?""",0.0
+00:09:39.044,00:09:40.346,"And the giraffe says,",0.0
+00:09:40.379,00:09:42.014,"""I thought you'd never ask.""",0.0
+00:09:42.047,00:09:44.249,[laughter],0.4939
+00:09:44.282,00:09:46.018,"""Hey, is this your laptop?""",0.0
+00:09:46.051,00:09:47.252,"And the giraffe says,",0.0
+00:09:47.285,00:09:48.787,"""I thought you would never ask.""",0.0
+00:09:48.820,00:09:51.857,[laughter] - What?,0.4939
+00:09:51.890,00:09:53.726,<i> - Since our subjects are  in a conforming mood...</i>,0.0
+00:09:53.759,00:09:55.094,"- Oh, my God.",0.2732
+00:09:55.127,00:09:56.161,<i> - Let's take this  a step further.</i>,0.0
+00:09:56.194,00:09:57.296,"- Hey, I need Katie and Lauren",0.0
+00:09:57.329,00:09:58.831,to come with me for your interview.,0.0
+00:09:58.864,00:09:59.898,- Sure. <i> - Let's see how committed</i>,0.3182
+00:09:59.931,00:10:01.300,<i> they are to fitting in.</i>,0.0
+00:10:01.333,00:10:03.636,<i> Will they repeat  the nonsensical joke</i>,0.0
+00:10:03.669,00:10:06.338,<i> to another one of our actors?</i>,0.0
+00:10:06.371,00:10:09.375,- We were telling jokes earlier.,0.25
+00:10:09.408,00:10:11.110,"Should I say the, uh...",0.0
+00:10:11.143,00:10:12.311,- Yes. - The giraffe? Okay.,0.5574
+00:10:12.344,00:10:13.846,So...,0.0
+00:10:13.879,00:10:15.147,"- Hey, uh, Tim, I need you to come with me",0.0
+00:10:15.180,00:10:16.348,for your interview.,0.0
+00:10:16.381,00:10:18.150,- Okay. Good. [inaudible],0.5859
+00:10:18.183,00:10:19.251,- I guess the joke has to wait.,0.296
+00:10:19.284,00:10:20.753,"- Yeah. Dude, you tell it.",0.296
+00:10:20.786,00:10:21.954,"You tell it, bro. - Well...",0.2732
+00:10:21.987,00:10:23.122,"- No, you got it. You got it. Say it.",0.0
+00:10:23.155,00:10:25.157,"- Okay, so the giraffe is in a line--",0.2263
+00:10:25.190,00:10:26.659,in a TSA line...,0.0
+00:10:26.692,00:10:27.826,- Okay. - Waiting.,0.2263
+00:10:27.859,00:10:30.796,"- And the-- and the agent asks him,",0.0
+00:10:30.829,00:10:32.698,"""Is that your laptop?""",0.0
+00:10:32.731,00:10:34.900,"And he was like, ""I thought you'd never ask.""",0.3612
+00:10:40.338,00:10:42.441,<i> [percussive beat]</i>,0.0
+00:10:42.474,00:10:43.942,- I don't--I don't get it.,0.0
+00:10:43.975,00:10:47.346,<i> ♪ ♪</i>,0.0
+00:10:47.379,00:10:49.281,"- Yeah, it's gonna take you a while to get it.",0.296
+00:10:49.314,00:10:50.282,- Okay.,0.2263
+00:10:50.315,00:10:52.351,"- And he says, um,",0.0
+00:10:52.384,00:10:53.819,"""I thought you'd never ask.""",0.0
+00:10:53.852,00:10:56.755,<i> ♪ ♪</i>,0.0
+00:10:56.788,00:10:59.725,- What's the funny part?,0.4404
+00:10:59.758,00:11:01.093,- I don't know. I--I found it funny.,0.4404
+00:11:01.126,00:11:04.430,And it's a giraffe. It's not a human.,0.0
+00:11:04.463,00:11:06.765,- And you thought it was funny? - Yeah.,0.6249
+00:11:06.798,00:11:08.167,"- What was the funny part, though?",0.4404
+00:11:08.200,00:11:09.902,Like...,0.3612
+00:11:09.935,00:11:12.237,"- I think it was-- the funny part was the laptop,",0.4404
+00:11:12.270,00:11:14.139,'cause you know how he's so tall?,0.0
+00:11:14.172,00:11:15.474,- Hmm.,0.0
+00:11:15.507,00:11:16.909,<i> - Do these subjects  really think</i>,0.0
+00:11:16.942,00:11:18.911,<i> my meaningless joke is funny?</i>,-0.1779
+00:11:18.944,00:11:21.113,<i> It's time to let them in  on what's really going on.</i>,0.0
+00:11:21.146,00:11:24.450,Everyone here today except for you is an actor.,0.0
+00:11:24.483,00:11:26.318,- Okay. - We have all been instructed,0.2263
+00:11:26.351,00:11:28.420,"to laugh at that dumb giraffe joke,",0.3612
+00:11:28.453,00:11:29.822,which is not even a joke.,-0.2235
+00:11:29.855,00:11:32.191,It's just a meaningless thing.,-0.4404
+00:11:32.224,00:11:35.227,"And then we see if the one person who isn't in on it,",0.0
+00:11:35.260,00:11:36.829,which in this round was you--,0.0
+00:11:36.862,00:11:38.330,how they respond.,0.0
+00:11:38.363,00:11:39.965,"Why did you never say,",0.0
+00:11:39.998,00:11:41.300,"""What?""",0.0
+00:11:41.333,00:11:43.836,"- I think it was people laughing around me,",0.4939
+00:11:43.869,00:11:46.038,and I was trying to understand why that was funny.,0.4404
+00:11:46.071,00:11:47.840,"And then I had to make sense of it in my mind,",0.0
+00:11:47.873,00:11:50.809,and then I think I made it funny to myself.,0.4404
+00:11:50.842,00:11:52.911,<i> - That process  of mental gymnastics</i>,0.0
+00:11:52.944,00:11:55.180,<i> is known as  cognitive dissonance.</i>,0.0
+00:11:55.213,00:11:57.950,"<i> When you've done something  you don't truly believe in,</i>",-0.3412
+00:11:57.983,00:12:00.419,"<i> like laughing just because  everyone else did,</i>",0.6908
+00:12:00.452,00:12:02.955,<i> you try to come to terms  with your behavior</i>,0.0
+00:12:02.988,00:12:05.090,<i> through denial  and justification.</i>,0.0
+00:12:05.123,00:12:07.526,"It's not a joke; I just made that up, and it's nonsense.",-0.5556
+00:12:07.559,00:12:09.094,"- I know, that's why I thought it was funny.",0.4404
+00:12:09.127,00:12:10.095,- 'Cause it just would-- make no sense?,-0.296
+00:12:10.128,00:12:11.463,"- Yeah, that's why.",0.296
+00:12:11.496,00:12:12.831,"- I don't know. That's crazy, though,",0.2584
+00:12:12.864,00:12:14.066,'cause it did make me laugh.,0.5574
+00:12:14.099,00:12:16.001,[laughing] - Everyone does that.,0.4939
+00:12:16.034,00:12:17.503,- Yeah. - It's typical human behavior...,0.296
+00:12:17.536,00:12:19.171,"- Yeah. It's true, though.",0.6124
+00:12:19.204,00:12:21.874,- To go with the flow and to keep things moving.,0.0
+00:12:21.907,00:12:24.443,"It's about just being a good, social person.",0.4404
+00:12:24.476,00:12:27.146,- It's definitely a-- a conformity thing.,0.4019
+00:12:27.179,00:12:29.115,[laughter],0.4939
+00:12:31.850,00:12:36.321,- One of the most disappointing and terrifying aspects,-0.8155
+00:12:36.354,00:12:38.924,of our desire not to stand out,0.4019
+00:12:38.957,00:12:40.959,is the bystander effect.,0.0
+00:12:40.992,00:12:44.096,People are less likely to help victims,0.0352
+00:12:44.129,00:12:46.865,if other people are around.,0.0
+00:12:46.898,00:12:48.967,One of the most famous examples,0.0
+00:12:49.000,00:12:52.237,is told in Psych 101 classes all over the world.,0.0
+00:12:52.270,00:12:54.473,"It's the story of Kitty Genovese,",0.0
+00:12:54.506,00:12:56.475,a woman who was brutally stabbed,-0.7845
+00:12:56.508,00:12:58.410,and raped in New York City,-0.6808
+00:12:58.443,00:13:00.579,in 1964.,0.0
+00:13:00.612,00:13:02.281,<i> - It was a murder  that symbolized</i>,-0.6908
+00:13:02.314,00:13:05.184,<i> the apathy of many  to big city crime.</i>,-0.296
+00:13:05.217,00:13:08.220,"<i> On a March night  back in 1964,</i>",0.0
+00:13:08.253,00:13:10.989,<i> 28-year-old bar manager  Kitty Genovese</i>,0.0
+00:13:11.022,00:13:12.891,<i> was stabbed to death  on a street</i>,-0.7783
+00:13:12.924,00:13:14.493,"<i> in Kew Gardens, Queens.</i>",0.0
+00:13:14.526,00:13:16.361,<i> Police say at least 38 people</i>,0.0
+00:13:16.394,00:13:17.496,<i> heard her screams</i>,0.0
+00:13:17.529,00:13:19.231,<i> but did nothing to help.</i>,0.0
+00:13:19.264,00:13:22.534,- The hypothesis was that each and every one of them,0.0
+00:13:22.567,00:13:24.970,"<i> assumed someone else  would call the police,</i>",0.0
+00:13:25.003,00:13:28.040,<i> so they didn't have to bother  to do so themselves.</i>,0.2584
+00:13:28.073,00:13:29.908,"It wasn't their responsibility,",0.0
+00:13:29.941,00:13:32.978,so the police were never called.,0.0
+00:13:33.011,00:13:35.914,And Kitty died.,-0.5574
+00:13:35.947,00:13:38.083,<i> [somber music]</i>,-0.4215
+00:13:38.116,00:13:39.551,<i> But here's the thing:</i>,0.0
+00:13:39.584,00:13:41.920,<i> Kitty's story may  not be an example</i>,0.0
+00:13:41.953,00:13:43.889,"of conformity,",0.0
+00:13:43.922,00:13:45.958,"at least not in the way we normally think,",0.0
+00:13:45.991,00:13:50.162,<i> because most of it  was totally untrue.</i>,0.0
+00:13:50.195,00:13:53.565,38 people didn't witness the attack.,0.3724
+00:13:53.598,00:13:56.101,"As it turns out, the actual number of witnesses",0.0772
+00:13:56.134,00:13:57.636,who could have helped and didn't,0.0
+00:13:57.669,00:14:00.439,"may have been as few as two,",0.0
+00:14:00.472,00:14:03.141,<i>and people did call the police.</i>,0.0
+00:14:03.174,00:14:07.212,Samuel Hoffman spent three or four minutes on hold,0.0
+00:14:07.245,00:14:10.382,before finally reaching a police dispatcher.,0.2023
+00:14:10.415,00:14:13.552,So where did the number 38 come from?,0.0772
+00:14:13.585,00:14:16.054,"<i> Well, it's theorized that  the police commissioner</i>",0.2732
+00:14:16.087,00:14:17.923,<i> actually lied to a reporter</i>,-0.3818
+00:14:17.956,00:14:20.158,<i> about the number of witnesses  who did nothing</i>,0.0772
+00:14:20.191,00:14:23.161,<i> in order to cover up why  it took the police so long</i>,0.0
+00:14:23.194,00:14:25.197,<i> to arrive at the scene  of the crime.</i>,0.0
+00:14:25.230,00:14:28.267,<i> And the narrative  of uncaring New Yorkers</i>,0.0
+00:14:28.300,00:14:30.602,<i> turning a blind eye  to a woman's murder</i>,-0.4019
+00:14:30.635,00:14:32.204,"<i> spread around the world,</i>",0.0
+00:14:32.237,00:14:34.239,<i> making front page headlines.</i>,0.0
+00:14:34.272,00:14:36.341,<i> As more and more sources</i>,0.0
+00:14:36.374,00:14:38.343,"<i>repeated reports they'd heard,</i>",0.0
+00:14:38.376,00:14:41.280,"<i> rather than going back  to investigate the truth,</i>",0.0
+00:14:41.313,00:14:43.048,a psychological phenomenon,0.0
+00:14:43.081,00:14:46.385,known as information cascade took place.,0.0
+00:14:46.418,00:14:49.054,<i>An information cascade develops</i>,0.0
+00:14:49.087,00:14:51.323,"<i> when people have little information themselves,</i>",0.0
+00:14:51.356,00:14:53.458,<i> so they depend on inferences  they can make</i>,0.0
+00:14:53.491,00:14:56.161,<i> based on earlier  people's actions.</i>,0.0
+00:14:56.194,00:15:00.098,So the conformity wasn't on the part of the eyewitnesses.,0.0
+00:15:00.131,00:15:03.268,It was in the reporting of the story.,0.0
+00:15:03.301,00:15:05.137,There's a saying in journalism:,0.0
+00:15:05.170,00:15:08.240,"""Some stories are too good to check.""",0.4404
+00:15:14.179,00:15:16.148,[projector whirring],0.0
+00:15:16.181,00:15:18.150,<i> - I'm going to give you  this cup</i>,0.0
+00:15:18.183,00:15:21.086,that contains lysergic acid--,0.0
+00:15:21.119,00:15:23.322,100 micrograms.,0.0
+00:15:23.355,00:15:25.190,<i> - Clinical trials:</i>,0.0
+00:15:25.223,00:15:27.592,"<i> they can be enlightening,</i>",0.0
+00:15:27.625,00:15:28.593,"<i> frightening,</i>",0.0
+00:15:28.626,00:15:30.295,<i> dangerous...</i>,0.0
+00:15:30.328,00:15:32.097,"- It seems to want to take me over too much, you see,",0.0772
+00:15:32.130,00:15:33.598,and I don't want to let myself go.,-0.0572
+00:15:33.631,00:15:36.168,<i> - And also the perfect  high-stakes setting</i>,0.5719
+00:15:36.201,00:15:38.270,<i> to test the power  of conformity.</i>,0.0
+00:15:41.373,00:15:44.343,<i> [tense music]</i>,-0.34
+00:15:44.376,00:15:46.545,<i> ♪ ♪</i>,0.0
+00:15:46.578,00:15:47.713,<i> This is Emma.</i>,0.0
+00:15:49.381,00:15:51.049,<i> She thinks she's taking part</i>,0.0
+00:15:51.082,00:15:52.184,<i> in a group study</i>,0.0
+00:15:52.217,00:15:53.285,<i> to measure the side effects</i>,0.0
+00:15:53.318,00:15:55.220,<i> of a new hallucinogenic drug.</i>,0.0
+00:15:57.088,00:15:59.424,- So the drug that you are helping us research today,0.296
+00:15:59.457,00:16:02.294,is NC-47.,0.0
+00:16:02.327,00:16:04.696,Today we're investigating possible side effects.,0.0
+00:16:04.729,00:16:08.200,"You know, there've been some audio-visual distortions.",0.0
+00:16:08.233,00:16:11.370,You may see some images behind your eyes--,0.0
+00:16:11.403,00:16:15.207,"um, you know, some general feelings of either calmness",0.4019
+00:16:15.240,00:16:16.641,or euphoria.,0.6486
+00:16:16.674,00:16:18.510,We're trying to examine those a little further,0.0
+00:16:18.543,00:16:20.445,and find out a little bit more about how,0.0
+00:16:20.478,00:16:22.647,this drug is affecting everybody.,0.0
+00:16:22.680,00:16:24.750,<i> - Emma is already looking  to the rest of the group</i>,0.0
+00:16:24.783,00:16:26.318,<i> for comfort.</i>,0.0
+00:16:26.351,00:16:27.753,"- Just take a cup, and just hang onto it.",0.0
+00:16:27.786,00:16:29.521,- [whispering] Okay.,0.2263
+00:16:29.554,00:16:31.523,"<i> - If everyone else is  participating willingly,</i>",0.0
+00:16:31.556,00:16:33.658,"<i> it must be okay for her, too.</i>",0.2263
+00:16:33.691,00:16:35.694,[laughter],0.4939
+00:16:35.727,00:16:37.095,"- We're all, like, scared to death.",-0.6486
+00:16:37.128,00:16:39.097,Okay.,0.2263
+00:16:39.130,00:16:40.265,- Go.,0.0
+00:16:41.366,00:16:45.804,<i> ♪ ♪</i>,0.0
+00:16:45.837,00:16:47.706,<i> But here's the catch:</i>,0.0
+00:16:47.739,00:16:50.709,<i> our subject didn't take  a hallucinogenic drug at all.</i>,0.0
+00:16:50.742,00:16:53.478,<i> It was simply a shot  of flavored water.</i>,0.0
+00:16:53.511,00:16:57.215,Just relax and concentrate.,0.4404
+00:16:57.248,00:16:58.583,We'll give this just a little bit of time,0.0
+00:16:58.616,00:17:00.318,to set in.,0.0
+00:17:00.351,00:17:02.621,<i> It doesn't take long  for our actors to feel</i>,0.0
+00:17:02.654,00:17:05.690,<i> the supposed side effects  of the so-called drug.</i>,0.0
+00:17:05.723,00:17:07.259,- It's like a--,0.3612
+00:17:07.292,00:17:09.227,like a line that goes across.,0.3612
+00:17:09.260,00:17:11.229,"- It's almost like I'm looking through a kaleidoscope,",0.2975
+00:17:11.262,00:17:12.764,"but it's, like, fuzzy.",0.5023
+00:17:12.797,00:17:15.434,<i> - Will our test subject  go along with the group?</i>,0.0
+00:17:15.467,00:17:17.602,<i> Or will she be bold enough  to stick out</i>,0.3818
+00:17:17.635,00:17:19.237,<i> and say the truth?</i>,0.0
+00:17:19.270,00:17:22.441,- It's like a--like a lava lamp sort of thing.,0.3612
+00:17:22.474,00:17:24.209,- Hmm.,0.0
+00:17:24.242,00:17:25.410,Emma?,0.0
+00:17:25.443,00:17:26.611,"- Um, I honestly--",0.4588
+00:17:26.644,00:17:28.246,I don't see anything. [laughs],-0.3875
+00:17:28.279,00:17:30.182,"- Mm. - I don't see any shadows,",0.0
+00:17:30.215,00:17:31.650,shapes...,0.0
+00:17:31.683,00:17:33.518,"I'm like, ""Come on, I want to see a shape.""",0.4215
+00:17:33.551,00:17:35.253,"But I don't see anything, no.",0.0
+00:17:35.286,00:17:38.457,<i>- Emma's honesty is making her  an outsider.</i>,0.4939
+00:17:38.490,00:17:41.726,"<i> Notice how she says she wants  to feel the side effects,</i>",0.0
+00:17:41.759,00:17:44.796,<i> which would enable her  to fit in with the group.</i>,0.3612
+00:17:44.829,00:17:46.665,You can all sit down again.,0.0
+00:17:48.333,00:17:50.435,"Okay, I want to do the audio test.",0.296
+00:17:50.468,00:17:51.803,"We're just gonna go down the line,",0.0
+00:17:51.836,00:17:54.473,"and I want you to just say the word ""hello.""",0.0772
+00:17:54.506,00:17:57.542,<i> Here's another opportunity  for Emma to conform.</i>,0.4215
+00:17:57.575,00:17:59.344,<i> Will she go along  with the group</i>,0.0
+00:17:59.377,00:18:02.247,<i> when she sees the actors  pretend to experience</i>,-0.1027
+00:18:02.280,00:18:05.717,<i> an auditory reaction  to the alleged drug?</i>,0.0
+00:18:05.750,00:18:07.552,- Hello.,0.0
+00:18:07.585,00:18:08.553,- Louder.,0.0
+00:18:08.586,00:18:10.889,"- Um, hello!",0.0
+00:18:10.922,00:18:12.724,- And how did that feel? What's your reaction?,0.0
+00:18:12.757,00:18:13.758,"- I hear, like, a delay.",0.0516
+00:18:13.791,00:18:15.293,"Like, um...",0.3612
+00:18:15.326,00:18:16.561,"Yeah, it could be called an echo.",0.296
+00:18:16.594,00:18:17.829,It's more like a... - Mm-hmm.,0.4201
+00:18:17.862,00:18:19.798,- Like a reverb or something.,0.3612
+00:18:19.831,00:18:21.333,"- Yup, that's very common.",0.0
+00:18:21.366,00:18:23.135,"All right, Ivory.",0.0
+00:18:23.168,00:18:25.804,- Hello.,0.0
+00:18:25.837,00:18:28.607,Hello. [laughs],0.4939
+00:18:28.640,00:18:30.609,"It's almost like, you know, when you watch a video,",0.2975
+00:18:30.642,00:18:32.811,and it's just like-- just the tiniest bit out of sync,0.3612
+00:18:32.844,00:18:34.479,so you just barely notice it?,0.0
+00:18:34.512,00:18:37.449,"- Mm-hmm. All right, Emma?",0.0
+00:18:39.450,00:18:41.786,- Hello.,0.0
+00:18:41.819,00:18:43.755,Hello?,0.0
+00:18:45.890,00:18:47.526,Hello.,0.0
+00:18:47.559,00:18:48.727,"Yeah, it is echoing,",0.296
+00:18:48.760,00:18:49.861,like you had a shot--,0.3612
+00:18:49.894,00:18:51.429,like you had a shot of vodka.,0.3612
+00:18:51.462,00:18:53.265,"- [laughing] - Something like that, like...",0.802
+00:18:53.298,00:18:55.901,"- Yeah, acute audio distortion is really common.",0.296
+00:18:55.934,00:18:58.737,- Okay. <i>- Here we see a classic example</i>,0.2263
+00:18:58.770,00:19:00.238,<i> of conformity.</i>,0.0
+00:19:00.271,00:19:01.907,<i> But is she just trying  to fit in</i>,0.5023
+00:19:01.940,00:19:04.176,<i> or does she truly believe</i>,0.4404
+00:19:04.209,00:19:06.645,<i> she's experiencing  side effects now?</i>,0.0
+00:19:06.678,00:19:08.680,- I'm feeling pretty chill. - Ivory?,0.5719
+00:19:08.713,00:19:10.615,"- I feel kind of, like, just relaxed.",0.8442
+00:19:10.648,00:19:12.450,"- I just feel, like, really relaxed.",0.7178
+00:19:12.483,00:19:15.520,<i> - She's now claiming to feel  multiple side effects.</i>,0.0
+00:19:15.553,00:19:16.821,"- But yeah, no, it's like I...",0.7227
+00:19:16.854,00:19:18.456,"I had, like, two drinks or something.",0.3612
+00:19:18.489,00:19:20.192,"- Right, and in this moment now,",0.0
+00:19:20.225,00:19:21.426,how do you feel?,0.0
+00:19:21.459,00:19:23.228,"- Uh, kind of tired. - Tired.",-0.7264
+00:19:23.261,00:19:24.529,- Right? - Yeah.,0.296
+00:19:24.562,00:19:25.897,- Am I the only one? - No. [laughs],0.4939
+00:19:25.930,00:19:29.601,"- Should go, like, nap on that bean bag, yeah.",0.5719
+00:19:29.634,00:19:31.269,<i> - Emma continues  to look to the group</i>,0.0
+00:19:31.302,00:19:32.837,<i> for reassurance  that her symptoms</i>,0.3612
+00:19:32.870,00:19:34.406,<i> are in line with theirs.</i>,0.0
+00:19:34.439,00:19:35.473,- I don't know if I like it.,0.3612
+00:19:35.506,00:19:36.541,I can't decide.,0.0
+00:19:36.574,00:19:37.909,You know what I mean?,0.0
+00:19:37.942,00:19:39.511,What do you guys think? I don't know.,0.0
+00:19:39.544,00:19:41.279,"<i> - Whatever she thinks  she's feeling,</i>",0.0
+00:19:41.312,00:19:43.615,<i> she wants to make sure  it fits in with the group.</i>,0.3182
+00:19:43.648,00:19:45.283,"- The room is warmer, no?",0.296
+00:19:45.316,00:19:46.918,- Yeah.,0.296
+00:19:46.951,00:19:50.655,- Would you take this while you were operating a motor vehicle?,0.0
+00:19:50.688,00:19:52.290,"- No, I don't think so.",0.0
+00:19:52.323,00:19:54.492,- Because...,0.0
+00:19:54.525,00:19:57.329,- 'Cause you need to concentrate on what you're doing.,0.0
+00:19:57.362,00:19:59.631,But I just feel so relaxed.,0.77
+00:19:59.664,00:20:02.701,<i> - Here we see an entirely new  level of conformity.</i>,0.0
+00:20:02.734,00:20:04.769,<i> Our subject is  actually experiencing</i>,0.0
+00:20:04.802,00:20:07.939,<i> physical manifestations  due to group pressure.</i>,0.0
+00:20:07.972,00:20:11.676,<i>Other subjects also experienced  physical sensations</i>,0.0
+00:20:11.709,00:20:13.979,<i> that they reported  in great detail.</i>,0.6249
+00:20:14.012,00:20:15.814,- Hello.,0.0
+00:20:15.847,00:20:18.383,I hear the echo. I can hear the echo.,0.0
+00:20:18.416,00:20:19.784,"- So you know an echo would go out, then in?",0.0
+00:20:19.817,00:20:21.620,"This is, like, just an in.",0.3612
+00:20:21.653,00:20:22.787,"- I just feel, like, sensation,",0.3612
+00:20:22.820,00:20:25.023,"like, near my eye and nose area.",0.3612
+00:20:25.056,00:20:26.725,"- I feel like it's definitely getting brighter, though.",0.7783
+00:20:26.758,00:20:29.761,"- Okay, could you say more about the increased brightness?",0.7063
+00:20:29.794,00:20:32.430,"- It's not comfortable to look at the lights, really.",-0.4023
+00:20:32.463,00:20:34.399,<i> - What we're seeing  from these subjects</i>,0.0
+00:20:34.432,00:20:36.768,"<i> could be a form of  informational conformity,</i>",0.0
+00:20:36.801,00:20:38.036,<i> or even what's called</i>,0.0
+00:20:38.069,00:20:39.337,"<i> a contact high,</i>",0.0
+00:20:39.370,00:20:40.605,<i> a psychological phenomenon</i>,0.0
+00:20:40.638,00:20:41.906,<i>that occurs when a sober person</i>,0.0
+00:20:41.939,00:20:43.775,<i>comes into contact with someone</i>,0.0
+00:20:43.808,00:20:45.610,<i> who is under the influence  of drugs</i>,0.0
+00:20:45.643,00:20:49.481,<i> and begins to manifest  the same physical symptoms.</i>,0.0
+00:20:49.514,00:20:50.915,I can now debrief you,0.0
+00:20:50.948,00:20:52.917,on what has been going on.,0.0
+00:20:52.950,00:20:55.553,So none of you took anything,0.0
+00:20:55.586,00:20:57.022,"but, uh, water today.",0.0
+00:20:57.055,00:20:58.690,- What?,0.0
+00:20:58.723,00:21:01.359,[laughter],0.4939
+00:21:01.392,00:21:03.595,- And we're just kind of looking at the way,0.0
+00:21:03.628,00:21:05.530,that groups conform together.,0.0
+00:21:05.563,00:21:07.599,We wanted to see what it would take,0.0
+00:21:07.632,00:21:09.968,to get someone to fall in line with the group.,0.0
+00:21:10.001,00:21:12.304,"Did you feel actual changes,",0.0
+00:21:12.337,00:21:13.438,or were you saying some things,0.0
+00:21:13.471,00:21:14.773,just to fit in and not stick out?,0.3612
+00:21:14.806,00:21:16.408,"- No, I felt relaxed, so I don't get--",0.4939
+00:21:16.441,00:21:17.976,I can't figure it-- I still feel relaxed.,0.4939
+00:21:18.009,00:21:19.511,- Are you surprised to have heard,0.2263
+00:21:19.544,00:21:21.780,that you just drank water?,0.0
+00:21:21.813,00:21:22.914,- Yeah.,0.296
+00:21:22.947,00:21:25.583,I definitely feel different.,0.4019
+00:21:25.616,00:21:27.686,"- I actually did hear, yeah, an echo.",0.296
+00:21:27.719,00:21:30.622,"<i> - The desire to conform  is so strong,</i>",0.4019
+00:21:30.655,00:21:32.490,<i> the subjects continue  to believe</i>,0.0
+00:21:32.523,00:21:34.392,"<i> in their manifested symptoms,</i>",0.0
+00:21:34.425,00:21:36.628,<i> even after learning  the drug was fake.</i>,0.0
+00:21:36.661,00:21:38.563,"- I am prone to anxiety attacks, though,",-0.5574
+00:21:38.596,00:21:40.098,so I felt relaxed.,0.5367
+00:21:40.131,00:21:42.334,"- Well, you should take more of this nothing.",0.2732
+00:21:42.367,00:21:44.303,[laughter],0.4939
+00:21:47.105,00:21:50.442,Human society is incredibly complex.,0.0
+00:21:50.475,00:21:53.812,<i> And the dueling forces  pushing us to conform</i>,0.0
+00:21:53.845,00:21:56.715,<i> and also to express  our individuality</i>,0.0
+00:21:56.748,00:21:58.516,<i> are both necessary.</i>,0.0
+00:21:58.549,00:22:01.820,<i> Other people can influence us  in good ways</i>,0.4404
+00:22:01.853,00:22:04.022,<i> and in not-so-good ways.</i>,0.0
+00:22:04.055,00:22:05.490,"<i> But at the end of the day,</i>",0.0
+00:22:05.523,00:22:07.058,just remember this:,0.0
+00:22:07.091,00:22:10.062,what did the walrus say to the doctor?,0.0
+00:22:11.596,00:22:13.765,Give up?,0.0
+00:22:13.798,00:22:15.100,Cardboard.,0.0
+00:22:15.133,00:22:17.402,<i> [laughter]</i>,0.0
+00:22:17.435,00:22:19.404,"Go ahead, laugh.",0.5574
+00:22:19.437,00:22:21.106,Everyone's doing it.,0.0
+00:22:21.139,00:22:24.008,"You don't want to look like you don't get it, do you?",0.3134
+00:22:24.041,00:22:25.643,"Good, that's what I thought.",0.4404
+00:22:25.676,00:22:26.978,"Thanks for laughing,",0.7269
+00:22:27.011,00:22:28.446,"and as always,",0.0
+00:22:28.479,00:22:29.614,thanks for watching.,0.4404
+00:22:35.753,00:22:38.723,<i> [electronic music]</i>,0.0
+00:22:38.756,00:22:45.697,<i> ♪ ♪</i>,0.0

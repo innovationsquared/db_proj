@@ -1,0 +1,86 @@
+Start Time,End Time,Text,sentiment-score
+00:00:06.238,00:00:08.307,"[Michael] <i> Before I embarked on  my journey to Japan,</i>",0.0
+00:00:08.340,00:00:11.044,"<i> to learn about the Cognitive  Tradeoff hypothesis,</i>",0.0
+00:00:11.077,00:00:13.279,"<i> I first visited  Dr. Terrence Deacon,</i>",0.0
+00:00:13.312,00:00:16.282,<i> professor of neuroanthropology  at UC Berkeley.</i>,0.0
+00:00:16.315,00:00:21.287,<i> to learn about the hardware  on which language had to be  installed: the brain.</i>,0.0
+00:00:21.320,00:00:26.392,"[Deacon] So, these are all preserved brains in formaldehyde.",0.0
+00:00:26.425,00:00:27.560,You know what I love about this room?,0.6369
+00:00:27.593,00:00:30.063,One is that you've got a cabinet,0.0
+00:00:30.096,00:00:32.665,"full of giant buckets that just have your name on them,",0.0
+00:00:32.698,00:00:35.334,and they don't look like they contain nice stuff.,0.1754
+00:00:35.367,00:00:37.703,"But also this fridge-- ""BIOHAZARD.""",0.0
+00:00:37.736,00:00:39.472,-That's not where you keep your lunch. -That's right.,0.0
+00:00:39.505,00:00:42.509,-This is not a place where people get to eat. -Right.,0.0
+00:00:44.376,00:00:46.345,"This is just a human brain,",0.0
+00:00:46.378,00:00:48.481,"preserved and then wrapped up in Saran Wrap,",0.0
+00:00:48.514,00:00:50.083,like a leftover.,0.3612
+00:00:50.116,00:00:52.385,You clearly didn't just grab this from someone.,0.4019
+00:00:52.418,00:00:56.355,"No, that's right. Today human brains are highly protected,",0.4927
+00:00:56.388,00:00:59.358,and lots of paperwork is required.,0.0
+00:00:59.391,00:01:04.497,"They're available, but it takes a lot of careful tracking...",0.2263
+00:01:04.530,00:01:08.367,"-Do you have to like report on, ""Yep, I still have it. Hasn't been stolen...""  -Yep, exactly.",0.6641
+00:01:08.400,00:01:10.136,Who is it?,0.0
+00:01:10.169,00:01:12.238,- I do know that this is from a male. -Okay.,0.2263
+00:01:12.271,00:01:14.273,"I believe this is an 80-year-old,",0.0
+00:01:14.306,00:01:16.843,but roughly in that range.,0.0
+00:01:16.876,00:01:17.977,Let's move on to this brain.,0.0
+00:01:18.011,00:01:21.881,"So, this is a bonobo, close relative to chimpanzees.",0.0
+00:01:21.914,00:01:24.584,No kidding. They look really similar.,-0.0762
+00:01:24.617,00:01:29.222,"In biological terms, humans are just another African ape.",0.0
+00:01:29.255,00:01:33.126,"In cognitive terms, we're like a whole other phylum of animals.",0.3612
+00:01:33.159,00:01:37.263,"So, I mean, where are these physical differences that make us--",0.0
+00:01:37.296,00:01:39.866,"-Right. -I mean, maybe we're not that different, really.",0.0
+00:01:39.899,00:01:44.170,"So, in one respect, none of these brains",0.4767
+00:01:44.203,00:01:47.340,"have parts that others lack, including the human brain.",-0.3182
+00:01:47.373,00:01:49.342,There's no special part in the human brain,-0.3089
+00:01:49.375,00:01:51.611,to do any of the things that make us special.,0.4019
+00:01:51.644,00:01:55.148,"And that's, again, because of the incredibly conservative nature",0.0
+00:01:55.181,00:01:56.782,of how brains have evolved.,0.0
+00:01:56.815,00:01:59.719,"Why don't I just pick one of the primate brains,",0.0
+00:01:59.752,00:02:03.689,"and the human brain, and we'll just compare different brains.",0.0
+00:02:03.722,00:02:07.560,There's something that feels very strange about knowing,-0.2716
+00:02:07.593,00:02:10.830,that this...belonged to a person.,0.0
+00:02:10.863,00:02:15.334,"I mean, the ape, it's very-- It's amazing how different that feels.",0.6222
+00:02:15.367,00:02:19.272,-I tell people to respect this. -Yes.,0.7371
+00:02:19.305,00:02:20.773,But also this one.,0.0
+00:02:20.806,00:02:24.911,"All of these were living, feeling, experiencing beings.",0.128
+00:02:24.944,00:02:27.246,"Okay, so let's look at these and show me,",0.2263
+00:02:27.279,00:02:32.318,is there a place in the brain where there's a lot of language going on?,0.0
+00:02:32.351,00:02:35.454,What we do know about language is that most of the brain,0.0
+00:02:35.487,00:02:37.723,is actually involved in some aspect of it.,0.0
+00:02:37.756,00:02:41.594,-Yeah. -You really need the whole working cerebral cortex,0.296
+00:02:41.627,00:02:43.529,to do what you and I do now.,0.0
+00:02:43.562,00:02:46.332,Let's take a look at the non-human primate brain.,0.0
+00:02:46.365,00:02:47.900,It's laid out pretty much the same way.,0.4939
+00:02:47.933,00:02:50.269,"Look at that. But there's still so similar,",0.0
+00:02:50.302,00:02:53.339,"not just in physical shape, but even the responsibilities",0.0
+00:02:53.372,00:02:56.209,or roles that the different places play.,0.34
+00:02:56.242,00:03:01.214,"Not only that, some of my early work was able to show that the connectivity",0.0
+00:03:01.247,00:03:03.883,of these structures between each other is the same.,0.0
+00:03:03.916,00:03:07.286,"-Wow. -Or very, very similar. Obviously, this is larger,",0.5859
+00:03:07.319,00:03:10.723,-Yeah. -but the basic pattern of connections is the same.,0.1531
+00:03:13.425,00:03:17.496,[Michael] What do you think of the Cognitive Tradeoff hypothesis?,0.0
+00:03:17.529,00:03:20.967,"So, first of all, the systems that do memory in our brain",0.0
+00:03:21.000,00:03:25.238,are not fundamentally different in their structure and their circuitry and so on.,0.0
+00:03:25.271,00:03:28.507,"-Yeah. -I think in the absence of language, we would",0.296
+00:03:28.540,00:03:31.911,"-probably be like chimpanzees, gorillas, orangutans, and so on. -Right.",0.3612
+00:03:31.944,00:03:36.549,"But yet, they're able to perform really well at tasks",0.4748
+00:03:36.582,00:03:39.919,"that seem to look like, ""Did they take a picture or something?""",0.3612
+00:03:39.952,00:03:45.024,Exactly. Chimpanzees seem to do reasonably well at some of these tasks.,0.2732
+00:03:45.057,00:03:49.595,But we've traded off that ability in order to focus on language.,0.4497
+00:03:49.628,00:03:52.798,Because the memory systems we use in language,0.0
+00:03:52.831,00:03:55.668,interface with each other in a way that's unusual.,0.0
+00:03:55.701,00:03:58.638,"Let me give you an example. Every book on my shelves,",0.0
+00:03:58.671,00:04:01.941,"no two sentences, probably, alike in any of these books.",-0.3287
+00:04:01.974,00:04:04.877,An<i> immense</i> amount of detail!,0.0
+00:04:04.910,00:04:09.515,"And, having read a good part of almost all these books,",0.4404
+00:04:09.548,00:04:11.784,I couldn't tell you any of these sentences.,0.0516
+00:04:11.817,00:04:14.720,"-No. -But if you ask me what's in<i> this</i> book,",0.0
+00:04:14.753,00:04:17.623,"what's its main ideas, I can probably give it to you.",0.0
+00:04:17.656,00:04:19.959,-That's a remarkable capacity. -Yeah.,0.7003
+00:04:19.992,00:04:25.765,So what I'm suggesting as the tradeoff is sort of giving up the specific details--,0.2748
+00:04:25.798,00:04:30.970,to sacrifice it at one level gives it back to us at another level.,0.0
+00:04:31.003,00:04:33.306,That's the power that we have gained from this.,0.3818
+00:04:33.339,00:04:38.844,"Because of that power, we can get at information that no other species can get at,",-0.296
+00:04:38.877,00:04:43.483,"both in our own experience, and in describing things in the world.",0.0

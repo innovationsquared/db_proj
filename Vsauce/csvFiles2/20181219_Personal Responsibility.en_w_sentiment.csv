@@ -1,0 +1,51 @@
+Start Time,End Time,Text,sentiment-score
+00:00:06.639,00:00:08.041,[Michael]<i> I had the chance  to sit down</i>,0.25
+00:00:08.074,00:00:10.176,"<i> with journalist  and author Ben Blum,</i>",0.0
+00:00:10.209,00:00:11.744,<i> who is one of the Stanford  Prison Experiment's</i>,-0.5106
+00:00:11.777,00:00:13.646,<i> most outspoken critics.</i>,0.0
+00:00:13.679,00:00:14.547,"<i> During our discussion,</i>",0.0
+00:00:14.580,00:00:16.449,"<i> he told me about his cousin  Alex,</i>",0.0
+00:00:16.482,00:00:18.684,<i> who was arrested for participating in a bank robbery</i>,-0.4767
+00:00:18.717,00:00:20.486,"<i> with his fellow Army Rangers,</i>",0.0
+00:00:20.519,00:00:23.489,<i>and received a lenient sentence  thanks to the testimony</i>,0.6486
+00:00:23.522,00:00:24.824,<i> of Dr. Zimbardo.</i>,0.0
+00:00:24.857,00:00:29.062,"Alex isn't here today, but how does he feel now",0.0
+00:00:29.095,00:00:33.833,about the lenient sentence he received because of Zimbardo?,0.34
+00:00:33.866,00:00:37.603,Alex feels very conflicted.,0.0
+00:00:37.636,00:00:40.273,He felt for years that it was unjust,-0.5106
+00:00:40.306,00:00:42.141,for him to have served any time at all.,0.0
+00:00:42.174,00:00:45.144,He really felt innocent.,0.3976
+00:00:45.177,00:00:47.113,He was so bitter for so long.,-0.5598
+00:00:47.146,00:00:51.551,He felt that he'd had no choice but to go along.,-0.1531
+00:00:51.584,00:00:54.153,"I mean, being the victim of circumstance",-0.2732
+00:00:54.186,00:00:58.291,is an incredibly frightening and powerless thing to be.,-0.788
+00:00:58.324,00:01:01.494,I think there's this kind of shallow comfort,0.3612
+00:01:01.527,00:01:04.130,that the Zimbardo narrative appears to give us.,0.0
+00:01:04.163,00:01:05.832,None of us are really responsible,0.3804
+00:01:05.865,00:01:07.667,for the things we do wrong. We can't help ourselves.,-0.6551
+00:01:07.700,00:01:09.135,We're just caught up in situations.,0.0
+00:01:09.168,00:01:10.536,But to accept that,0.5267
+00:01:10.569,00:01:12.638,it to say that you're agentless.,0.0
+00:01:12.671,00:01:16.609,Yeah. How am I ever going to avoid doing something horrible?,-0.5423
+00:01:16.642,00:01:19.245,"For a lot of years, he had a hard time accepting",0.296
+00:01:19.278,00:01:21.481,responsibility for involvement in the crime.,-0.5423
+00:01:21.514,00:01:26.853,And now I think he accepts that he really was guilty of a crime.,-0.6461
+00:01:26.886,00:01:31.657,and that he deserved to go to jail for it.,0.0
+00:01:31.690,00:01:35.095,So it sounds like taking personal responsibility...,0.4144
+00:01:36.328,00:01:38.764,admitting more control,0.0
+00:01:38.797,00:01:42.168,"helped Alex come to better terms with what happened,",0.4404
+00:01:42.201,00:01:46.272,and doesn't just feel like the victim of a circumstance.,-0.4956
+00:01:46.305,00:01:49.208,So how does Alex feel about it today?,0.0
+00:01:49.241,00:01:52.145,Alex has undergone a pretty dramatic,0.4939
+00:01:52.178,00:01:53.479,personal transformation.,0.0
+00:01:53.512,00:01:55.381,"Acknowledging that, actually,",0.0
+00:01:55.414,00:01:57.150,there was a voice inside him,0.0
+00:01:57.183,00:01:58.484,that did register what was going on.,0.0
+00:01:58.517,00:02:02.755,There was a conscience at work,0.0
+00:02:02.788,00:02:05.558,that he acted against.,0.0
+00:02:05.591,00:02:08.661,Restored his faith in his own humanity.,0.6369
+00:02:08.694,00:02:10.930,And that was immensely liberating.,0.0
+00:02:10.963,00:02:14.300,He and one of the tellers,0.0
+00:02:14.333,00:02:16.836,in the bank that day have corresponded.,0.0
+00:02:16.869,00:02:22.308,She said that she doesn't harbor any ill will toward him anymore.,0.3252
+00:02:22.341,00:02:23.877,And that's been really good for him.,0.4927

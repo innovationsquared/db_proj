@@ -1,0 +1,145 @@
+Start Time,End Time,Text,sentiment-score
+00:00:03.639,00:00:05.299,"Hey, Vsauce. Michael here.",0.0
+00:00:05.300,00:00:07.919,"I am at the White House, in America's capital,",0.0
+00:00:07.919,00:00:11.550,"Washington, D.C. America makes a lot of feature films every year - ",0.0
+00:00:11.550,00:00:16.949,Hollywood. But they don't make the most feature films every year. Nigeria makes more.,0.0
+00:00:16.949,00:00:20.490,But the country that makes the most films every single year is,0.0
+00:00:20.490,00:00:23.500,"India. Every two years, the country",0.0
+00:00:23.500,00:00:27.240,of India fills up enough film with unique feature films,0.0
+00:00:27.240,00:00:30.560,"that stretch all the way from this city, Mumbai, to where I live,",0.0
+00:00:30.560,00:00:34.340,in London. That's double what Hollywood produces in two years.,0.0
+00:00:34.340,00:00:37.879,"That is a lot of movies, but is",0.0
+00:00:37.900,00:00:43.379,real-life a movie? I've discussed the frame rate of the human eye before but how,0.0
+00:00:43.379,00:00:44.520,does the resolution,0.0
+00:00:44.520,00:00:48.000,of the human eye compare to a camera or screen?,0.0
+00:00:48.000,00:00:51.489,"VHS, LaserDisc, DVD,",0.0
+00:00:51.489,00:00:57.750,"Blu-ray, IMAX. Numbers like these are pixel dimensions. When multiplied",0.3612
+00:00:57.750,00:01:01.800,they tell us the total number of picture elements an image is made up of.,0.1513
+00:01:01.800,00:01:06.030,A figure often used to describe digital cameras. It might sound like,0.3612
+00:01:06.030,00:01:12.070,"more is better, but to be sure numbers like 1920 by 1080",0.8068
+00:01:12.070,00:01:16.330,are not resolutions per se. More pixels is only part,0.0
+00:01:16.330,00:01:19.630,of the equation. Resolution is about distinguishing,0.0
+00:01:19.630,00:01:23.310,fine details and that depends on a lot of other factors.,0.2023
+00:01:23.310,00:01:26.830,"For instance, the amount of light, the size of the sensors,",0.0
+00:01:26.830,00:01:30.159,what the millions of pixels are actually encoding and,0.0
+00:01:30.159,00:01:33.600,"how close the subject is. I mean, up close",0.0
+00:01:33.600,00:01:36.740,Salvador Dali's painting of his wife looking at the Mediterranean can be,0.0
+00:01:36.740,00:01:39.579,"resolved into boxes. But from a far,",0.09
+00:01:39.579,00:01:44.189,"well, it's Abraham Lincoln. For crying out loud, on a small enough screen",-0.25
+00:01:44.189,00:01:49.100,"from far enough away, low and high, so-called resolutions on screens, aren't",-0.2732
+00:01:49.100,00:01:50.439,even resolved differently,0.1779
+00:01:50.439,00:01:53.119,from one another by your eye.,0.0
+00:01:53.120,00:01:57.060,How different nearby pixels are from one another also matters. This is called,0.0258
+00:01:57.060,00:01:58.530,spatial resolution.,0.0
+00:01:58.530,00:02:01.590,"For instance, if I go out-of-focus",0.0
+00:02:01.590,00:02:06.380,the number of pixels in the video frame stays the same but you can't resolve as much,-0.3871
+00:02:06.380,00:02:09.780,"detail. Now, with all this in mind we can still",0.0
+00:02:09.780,00:02:13.629,"compare human vision to a digital image, by asking a better question.",0.5994
+00:02:13.629,00:02:17.870,"Assuming everything else is optimal, how many pixels would you need to make an",0.3612
+00:02:17.870,00:02:21.650,image on a screen large enough to fill your entire field of view,0.0
+00:02:21.650,00:02:24.860,"look like real life, without any detectable",0.3612
+00:02:24.860,00:02:28.560,pixelation? Now we are getting somewhere.,0.0
+00:02:28.560,00:02:32.980,Kind of. The analogy is still crudy,0.5267
+00:02:32.980,00:02:36.550,"because a camera snaps an entire frame at once, whereas",0.0
+00:02:36.550,00:02:39.900,our eyes move around. The brain amalgamates,0.0
+00:02:39.900,00:02:43.340,their constant stream of information into what we call vision -,0.25
+00:02:43.340,00:02:48.060,"sight. In fact, the image created by the eyeball alone during a single glance",0.0
+00:02:48.060,00:02:54.269,would hardly even be acceptable on a broken TV screen. We think,-0.2648
+00:02:54.269,00:02:58.330,our eyes create images like this picture Guy took of me with a camera.,0.5574
+00:02:58.330,00:03:02.580,"But for one thing, unlike a camera, you've got some stuff",0.0
+00:03:02.580,00:03:06.050,"in the way. For instance, you are always",0.0
+00:03:06.050,00:03:09.790,"looking at your own nose, and maybe even glasses,",0.0
+00:03:09.790,00:03:14.310,"if you have them. Luckily, our brains process those stimuli out because they",0.5106
+00:03:14.310,00:03:15.159,don't matter,-0.0191
+00:03:15.159,00:03:19.310,and they don't change. But thinking those are the only difference,0.0
+00:03:19.310,00:03:22.930,"is a pitfall, literally,",0.0
+00:03:22.930,00:03:27.180,latinly. The fovea gets its name from the Latin for,0.0
+00:03:27.180,00:03:31.379,'pitfall'. The fovea is the pit on your retina that receives light from the,0.0
+00:03:31.379,00:03:32.629,central two degrees,0.0
+00:03:32.629,00:03:35.950,"of your field of view, about the area covered by both your thumbs",0.0
+00:03:35.950,00:03:40.650,when held at arms length away. Optimal colour vision and 20/20 acuity are,0.5423
+00:03:40.650,00:03:46.560,only possible within that little area. When it comes to these limitations XKCD[.com],0.0
+00:03:46.560,00:03:48.340,has a brilliant illustration.,0.5859
+00:03:48.340,00:03:52.400,"It points out other problems, like blind spots - literal blank spaces",-0.4404
+00:03:52.409,00:03:55.410,in our vision where the optic nerve meets up with the retina,0.25
+00:03:55.410,00:03:58.920,and no visual information is received. If you bought,-0.296
+00:03:58.920,00:04:01.959,"a camera that did this, you would return it.",0.0
+00:04:01.959,00:04:04.989,You can find your own blind spot by closing,-0.4019
+00:04:04.989,00:04:08.819,"your right eye, fixating your left eye on a point in front of you,",0.0
+00:04:08.819,00:04:11.870,extending your left thumb and then moving it,0.0
+00:04:11.870,00:04:15.819,left-of-center slightly slowly carefully until,0.0571
+00:04:15.819,00:04:19.549,"it's not there anymore. Crazy(!) But, of course,",0.2047
+00:04:19.549,00:04:24.509,"we don't see the world horribly, like this, because our eyes are constantly moving,",-0.2263
+00:04:24.510,00:04:27.620,dragging foveal resolution wherever we need it.,0.0
+00:04:27.620,00:04:31.910,"And our brains' complex visual system fills in details,",0.0
+00:04:31.910,00:04:36.840,merges images from both eyes and makes a lot of gueses. What we actually see,0.0
+00:04:36.840,00:04:41.060,"is a processed image. Not computer-generated imagery, but,",0.0
+00:04:41.060,00:04:45.880,"well, meat-generated imagery. The neon color spreading illusion",0.2732
+00:04:45.880,00:04:49.870,is a great way to demonstrate this difference. There is no,0.4404
+00:04:49.870,00:04:53.210,blue circle in this picture. The white here,0.0
+00:04:53.210,00:04:56.610,is the same as the white here. A camera,0.0
+00:04:56.610,00:04:59.669,"isn't fooled, a screen isn't fooled, only",0.5216
+00:04:59.669,00:05:03.870,you and the fleeting gumbo of ingredients you call perception,0.0
+00:05:03.870,00:05:07.080,is fooled. Our vision,-0.1531
+00:05:07.080,00:05:13.050,is not analogous to a camera. But our reformulated question can still be,0.0
+00:05:13.050,00:05:18.250,"answered because human anatomy allows us to resolve, to differentiate certain",0.5719
+00:05:18.250,00:05:21.770,"angular distances. Famously, Roger N .Clark",0.0
+00:05:21.770,00:05:26.900,"used a figure of 0.59 arcminutes as the resolution of the human eye to calculate,",0.0
+00:05:26.900,00:05:30.010,"based on the size of our total field of view,",0.0
+00:05:30.010,00:05:34.180,how many of these distinct elements could fit inside of it.,0.3612
+00:05:34.180,00:05:37.640,The result was an approximation of exactly what we want to know:,0.0772
+00:05:37.640,00:05:42.909,how many individual picture elements - pixels - our vision can appreciate.,0.5719
+00:05:42.909,00:05:47.980,His answer? 576 megapixels.,0.0
+00:05:47.980,00:05:51.820,"That many pixels, packed inside a screen large enough to fill",0.0
+00:05:51.830,00:05:55.010,"your entire field of view, regardless of proximity,",0.0
+00:05:55.010,00:05:58.240,would be close enough to be undetectable by the average,0.0
+00:05:58.240,00:06:02.130,"human eye. But we should factor in the fovea,",0.0
+00:06:02.130,00:06:06.130,"because Clark's calculation assumes optimal acuity everywhere, it allows the",0.3612
+00:06:06.130,00:06:07.479,eye to move around.,0.0
+00:06:07.479,00:06:13.479,"But a single glance is more analogous to a camera snap, and, as it turns out,",0.0
+00:06:13.479,00:06:17.479,"only about 7 megapixels, packed into the two degrees of",0.0
+00:06:17.479,00:06:20.630,"optimal acuity the fovea covers during a fixed stare,",0.3612
+00:06:20.630,00:06:25.200,are needed to be rendered undetectable. It's been roughly estimated that the,0.0
+00:06:25.200,00:06:27.479,rest of your field of view would only need about,0.0
+00:06:27.479,00:06:32.719,1 megapixel more information. Now that might sound low but keep in mind that there,-0.1406
+00:06:32.719,00:06:36.289,are plenty of modern technologies that already use pixel densities,0.0
+00:06:36.289,00:06:41.210,"better than we can differentiate. As Bad Astronomer deftly showed,",-0.1531
+00:06:41.210,00:06:45.270,Apple's Retina Displays truly do contain pixels at a density,0.4404
+00:06:45.270,00:06:48.469,average eyesight can't differentiate from typical,0.0
+00:06:48.469,00:06:53.010,reading distances. But the fact that there are screen sizes and pixel,0.0
+00:06:53.010,00:06:54.870,densities that can fool the human eye,-0.4404
+00:06:54.870,00:06:58.000,is not a sign that we see in,0.0
+00:06:58.000,00:07:01.820,any kind of megapixelly way. Human vision just,0.25
+00:07:01.820,00:07:07.349,"isn't that digital. I mean, sure, like a camera sensor we only have a finite",0.5859
+00:07:07.349,00:07:10.440,and discrete number of cells in our retina.,0.0772
+00:07:10.440,00:07:14.669,But the brain adjusts our initial sensations into a final perception,0.0
+00:07:14.669,00:07:18.159,that is a wishy-washy top-down processed blob,0.0
+00:07:18.159,00:07:21.580,of experience. It's not made of pixels,0.0
+00:07:21.580,00:07:26.380,"and furthermore, unlike a camera, it's not saved in memory with veracity like a",0.0433
+00:07:26.380,00:07:27.820,digital camera file.,0.0
+00:07:27.820,00:07:32.599,Absolutely no evidence has ever been found for the existence of a truly,0.1045
+00:07:32.599,00:07:37.229,photographic memory. And what's even cooler is that not only do we not,0.0
+00:07:37.229,00:07:40.229,"visually resolve the real world, like a movie camera,",0.6249
+00:07:40.229,00:07:45.599,we also don't narratively resolve conflict and drama in our lives,-0.0572
+00:07:45.599,00:07:50.009,"like most movie scripts. The point of all of this, what I'm getting at,",0.3612
+00:07:50.009,00:07:53.699,is an idea. An idea that initially drew me to this question.,0.0
+00:07:53.699,00:07:56.729,"We play roles in the movie of life,",0.34
+00:07:56.729,00:08:01.789,but it's a special kind of movie. Cinematic victories and struggles are often,0.0772
+00:08:01.789,00:08:07.020,"discrete, resolved, like pixels, with unbelievably perfect beginnings and endings,",0.8016
+00:08:07.020,00:08:11.780,whereas the real world is all about ear resolution.,0.0
+00:08:11.780,00:08:15.300,I like how Jack Angstreich put it in 'Cinemania'.,0.3612
+00:08:15.300,00:08:19.699,"In a movie, a character can make a decision and then walk away from the camera",0.0
+00:08:19.699,00:08:25.659,"across the street and have the credits roll, freezing life in a perfect happily ever after.",0.8555
+00:08:26.620,00:08:30.720,"But in the real world, after you cross the street,",0.0
+00:08:32.099,00:08:35.699,you have to go home. The world goes on.,0.0
+00:08:35.699,00:08:39.919,Life doesn't appear in any particular pixel resolution,0.0
+00:08:39.919,00:08:43.089,or narrative resolution. Things are,0.0
+00:08:43.089,00:08:47.819,continuous. The world was running before you came around and it will continue running,0.0
+00:08:47.819,00:08:52.339,after you are gone. Your life is a plot only in so far as it begins,0.0
+00:08:52.339,00:08:55.690,and ends and occurs in medias res.,0.0
+00:08:55.690,00:08:58.740,Damerish opens illustration for Charles McGrath's endings,0.0
+00:08:58.750,00:09:03.140,"without endings says it perfectly. In life, there rarely is",0.6369
+00:09:03.140,00:09:05.440,the end. There is only,0.0
+00:09:05.449,00:09:06.949,the and.,0.0
+00:09:06.949,00:09:08.129,"And as always,",0.0
+00:09:08.129,00:09:09.489,thanks for watching.,0.4404

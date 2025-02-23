@@ -1,0 +1,62 @@
+Start Time,End Time,Text,sentiment-score
+00:00:08.774,00:00:11.177,[Michael]<i> While I was at  the Primate Research Institute</i>,0.0
+00:00:11.210,00:00:14.180,"<i> learning about  Dr. Tetsuro Matsuzawa's  memory studies,</i>",0.0
+00:00:14.213,00:00:17.183,"<i> I was introduced  to graduate student Jie Gao,</i>",0.0
+00:00:17.216,00:00:20.153,<i> who is studying chimpanzees'  ability to understand</i>,0.3182
+00:00:20.186,00:00:22.522,<i> complex relationships  between objects</i>,0.0
+00:00:22.555,00:00:25.691,<i> in order to learn more  about their cognitive  capabilities.</i>,0.0
+00:00:25.724,00:00:29.729,"<i> In her research,  Gao has been able to train  the chimps to understand</i>",0.0
+00:00:29.762,00:00:32.265,<i> and correctly choose  the winning hand</i>,0.5267
+00:00:32.298,00:00:35.735,"<i> in the classic schoolyard  game of Rock, Paper, Scissors.</i>",0.0
+00:00:35.768,00:00:37.804,How long did it take for them to learn that?,0.0
+00:00:37.837,00:00:40.807,I think it's about 300 sessions.,0.0
+00:00:40.840,00:00:43.176,"With what, one session a day?",0.0
+00:00:43.209,00:00:45.678,"-We have three sessions a day. -Ah, okay.",0.2263
+00:00:45.711,00:00:48.748,-Hundred days. Three months. -A hundred days' about three months.,0.0
+00:00:48.781,00:00:52.752,"Um, what made you want to do Rock, Paper, Scissors in the first place?",0.0772
+00:00:52.785,00:00:55.421,[Gao] I'm interested in whether they could learn,0.4019
+00:00:55.454,00:00:57.557,the circular relationship.,0.0
+00:00:57.590,00:01:01.694,"And the Rock, Paper, Scissors game is three elements,",0.0
+00:01:01.727,00:01:05.231,so it's the simplest circular relationship.,0.0
+00:01:05.264,00:01:06.800,[Matsuzawa speaking],0.0
+00:01:16.342,00:01:18.678,[Michael] Rare? Yeah.,0.296
+00:01:23.415,00:01:26.119,-And it seems like they do.,0.3612
+00:01:27.820,00:01:30.389,She's doing really well at this.,0.3384
+00:01:30.422,00:01:31.657,-Yes. -Faster than I could do it.,0.4019
+00:01:31.690,00:01:34.861,"Now I haven't trained for hundreds of trials,",0.0
+00:01:34.894,00:01:39.198,"but before I can even figure out which one I would tap,",0.0
+00:01:39.231,00:01:41.801,she's already picked correctly.,0.0
+00:01:41.834,00:01:46.372,"Yeah, I think they kind of react quicker than humans.",0.296
+00:01:46.405,00:01:50.409,"Also, in Professor Matsuzawa's numerical task, they also--",0.0
+00:01:50.442,00:01:55.281,-They don't wait. -They do it very quickly.,0.0
+00:01:55.314,00:01:57.884,-[Gao] The accuracy is 94%. -[Matsuzawa] 94.,0.0
+00:01:57.917,00:01:59.919,94 %. That's incredible.,0.0
+00:01:59.952,00:02:04.223,-It's only three errors. -Three errors.,-0.5859
+00:02:04.256,00:02:06.893,-[Matsuzawa] Out of 48. -[Gao] 48 trials.,0.0
+00:02:06.926,00:02:10.863,So another session is for human hands.,0.0
+00:02:10.896,00:02:14.500,"This is another variation of Rock, Paper, Scissors.",0.0
+00:02:14.533,00:02:17.170,-Yeah. Now these are human hands. -Yes.,0.5994
+00:02:17.203,00:02:20.740,"And at first, did you notice a difference in ability",0.3182
+00:02:20.773,00:02:22.909,"to distinguish the Rock, Paper, Scissors symbols",0.0
+00:02:22.942,00:02:25.244,with a chimp hand or a human hand?,0.7506
+00:02:25.277,00:02:28.314,"[Gao] Well at first, we trained, a chimpanzee hand.",0.6486
+00:02:28.347,00:02:31.717,"After he learn it, we trained with human hand.",0.4939
+00:02:31.750,00:02:33.452,-[buzzer] -And surprisingly--,0.296
+00:02:33.485,00:02:35.788,"-She got one wrong. -Yeah. --they didn't  get it,",-0.2263
+00:02:35.821,00:02:39.392,"because for humans, it's easy for us to know that, for example,",0.4404
+00:02:39.425,00:02:42.461,"the paper--human paper-- and chimpanzee paper,",0.0
+00:02:42.494,00:02:44.697,"-they are in the same shape, -Right.",0.0
+00:02:44.730,00:02:47.167,"but chimpanzees, they don't seem to get it.",0.0
+00:02:49.235,00:02:50.570,[Matsuzawa speaking],0.0
+00:02:55.708,00:02:56.709,Yeah.,0.296
+00:03:00.479,00:03:02.548,"[Michael] Yeah, and so the next step, obviously,",0.296
+00:03:02.581,00:03:05.518,"is just playing Rock, Paper, Scissors",0.2023
+00:03:05.551,00:03:07.954,"- Oh, yes. -against another chimp or against me.",0.4019
+00:03:07.987,00:03:09.789,"Yeah, that's a plan.",0.296
+00:03:09.822,00:03:14.560,"Well, do you think that because Aye has learned a circular relationship",0.2732
+00:03:14.593,00:03:18.297,"and has connected a chimp and a human hand, kind of abstract category thing,",0.4939
+00:03:18.330,00:03:22.435,that she's traded off anything that she used to be good at and now isn't?,0.4404
+00:03:22.468,00:03:24.904,-Good question. -[Gao] Yeah.,0.6249
+00:03:24.937,00:03:25.972,[both laugh],0.5574
+00:03:26.005,00:03:27.573,[both] Hmm...,0.0
+00:03:27.606,00:03:30.210,-Future research. -Yes.,0.4019
