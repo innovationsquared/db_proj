@@ -7,8 +7,8 @@ analyzer = SentimentIntensityAnalyzer()
 def add_sentiment(file_path, output_dir):
     try:
         df = pd.read_csv(file_path)
-        if 'Text' in df.columns:
-            df['sentiment-score'] = df['Text'].apply(lambda x: analyzer.polarity_scores(str(x))['compound'])
+        if 'Word' in df.columns:
+            df['sentiment-score'] = df['Word'].apply(lambda x: analyzer.polarity_scores(str(x))['compound'])
             os.makedirs(output_dir, exist_ok=True)
             base_file = os.path.basename(file_path)
             new_file_path = os.path.join(output_dir, base_file.replace('.csv', '_w_sentiment.csv'))
@@ -25,7 +25,7 @@ def walk_dir(directory, output_directory):
             if file.endswith('.csv'):
                 file_path = os.path.join(root, file)
                 add_sentiment(file_path, output_directory)
-input_directory = '/home/calvin/Documents/AppState/Data_With_Python/Project/Vsauce/csvFiles/'
-output_directory = '/home/calvin/Documents/AppState/Data_With_Python/Project/Vsauce/csvFiles2/'
+input_directory = '/home/calvin/Documents/AppState/Data_With_Python/Project/Veritasium/'
+output_directory = '/home/calvin/Documents/AppState/Data_With_Python/Project/Veritasium/'
 
 walk_dir(input_directory, output_directory)
